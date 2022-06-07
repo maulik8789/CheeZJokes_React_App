@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maulik8789/CheeZJokes_React_App/static/css/main.506e469a.css",
+    "main.js": "/maulik8789/CheeZJokes_React_App/static/js/main.d8c7c422.js",
+    "index.html": "/maulik8789/CheeZJokes_React_App/index.html",
+    "main.506e469a.css.map": "/maulik8789/CheeZJokes_React_App/static/css/main.506e469a.css.map",
+    "main.d8c7c422.js.map": "/maulik8789/CheeZJokes_React_App/static/js/main.d8c7c422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506e469a.css",
+    "static/js/main.d8c7c422.js"
+  ]
+}
